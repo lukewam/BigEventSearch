@@ -1,0 +1,61 @@
+[
+  { "id": 1, "title": "September 11 Attacks", "year": 2001, "category": "Geopolitics", "location": "United States", "summary": "Coordinated terrorist attacks in New York and Washington that reshaped global security and foreign policy.", "tags": ["terrorism", "US", "war on terror"] },
+
+  { "id": 2, "title": "War in Afghanistan Begins", "year": 2001, "category": "Geopolitics", "location": "Afghanistan", "summary": "US-led invasion following 9/11 to dismantle al-Qaeda and remove the Taliban from power.", "tags": ["war", "US", "Middle East"] },
+
+  { "id": 3, "title": "Iraq War", "year": 2003, "category": "Geopolitics", "location": "Iraq", "summary": "US-led invasion of Iraq that destabilized the region and reshaped Middle Eastern geopolitics.", "tags": ["war", "Middle East"] },
+
+  { "id": 4, "title": "Facebook Founded", "year": 2004, "category": "Technology", "location": "United States", "summary": "Launch of Facebook, accelerating the rise of social media and digital identity.", "tags": ["social media", "internet"] },
+
+  { "id": 5, "title": "Indian Ocean Tsunami", "year": 2004, "category": "Disaster", "location": "Asia", "summary": "Massive tsunami caused by an undersea earthquake, killing over 200,000 people.", "tags": ["earthquake", "tsunami"] },
+
+  { "id": 6, "title": "Hurricane Katrina", "year": 2005, "category": "Disaster", "location": "United States", "summary": "Devastating hurricane that exposed deep social and infrastructural failures in the US.", "tags": ["climate", "hurricane"] },
+
+  { "id": 7, "title": "Global Financial Crisis", "year": 2008, "category": "Economy", "location": "Global", "summary": "Worldwide financial collapse triggered by the US housing bubble and banking failures.", "tags": ["economy", "banks", "recession"] },
+
+  { "id": 8, "title": "Election of Barack Obama", "year": 2008, "category": "Politics", "location": "United States", "summary": "Barack Obama becomes the first Black president of the United States.", "tags": ["election", "US politics"] },
+
+  { "id": 9, "title": "Arab Spring", "year": 2010, "category": "Geopolitics", "location": "Middle East", "summary": "Wave of protests and uprisings challenging authoritarian regimes across the Arab world.", "tags": ["protest", "revolution"] },
+
+  { "id": 10, "title": "Fukushima Nuclear Disaster", "year": 2011, "category": "Disaster", "location": "Japan", "summary": "Nuclear meltdown following a major earthquake and tsunami, reigniting global nuclear debates.", "tags": ["nuclear", "earthquake"] },
+
+  { "id": 11, "title": "Death of Osama bin Laden", "year": 2011, "category": "Geopolitics", "location": "Pakistan", "summary": "Leader of al-Qaeda killed by US forces after a decade-long manhunt.", "tags": ["terrorism", "US"] },
+
+  { "id": 12, "title": "Syrian Civil War Begins", "year": 2011, "category": "Geopolitics", "location": "Syria", "summary": "Conflict that evolved from protests into a prolonged and devastating civil war.", "tags": ["war", "refugees"] },
+
+  { "id": 13, "title": "Edward Snowden NSA Leaks", "year": 2013, "category": "Technology", "location": "Global", "summary": "Revelations of mass government surveillance sparked global privacy debates.", "tags": ["privacy", "surveillance"] },
+
+  { "id": 14, "title": "ISIS Declares Caliphate", "year": 2014, "category": "Geopolitics", "location": "Middle East", "summary": "Extremist group seizes territory across Iraq and Syria, escalating regional instability.", "tags": ["terrorism", "war"] },
+
+  { "id": 15, "title": "Russia Annexes Crimea", "year": 2014, "category": "Geopolitics", "location": "Ukraine", "summary": "Russia’s annexation of Crimea heightens tensions with Ukraine and the West.", "tags": ["Russia", "Ukraine"] },
+
+  { "id": 16, "title": "Paris Climate Agreement", "year": 2015, "category": "Environment", "location": "Global", "summary": "International agreement to limit global warming and address climate change.", "tags": ["climate", "policy"] },
+
+  { "id": 17, "title": "Brexit Referendum", "year": 2016, "category": "Politics", "location": "United Kingdom", "summary": "UK votes to leave the European Union, reshaping European politics.", "tags": ["EU", "UK"] },
+
+  { "id": 18, "title": "Election of Donald Trump", "year": 2016, "category": "Politics", "location": "United States", "summary": "Donald Trump elected US president amid populist and nationalist movements.", "tags": ["election", "US politics"] },
+
+  { "id": 19, "title": "MeToo Movement", "year": 2017, "category": "Culture", "location": "Global", "summary": "Global movement exposing sexual harassment and power abuse.", "tags": ["social movement", "gender"] },
+
+  { "id": 20, "title": "Cambridge Analytica Scandal", "year": 2018, "category": "Technology", "location": "Global", "summary": "Data misuse scandal revealing political manipulation through social media.", "tags": ["privacy", "social media"] },
+
+  { "id": 21, "title": "COVID-19 Pandemic", "year": 2020, "category": "Health", "location": "Global", "summary": "Global pandemic that disrupted societies, economies, and daily life worldwide.", "tags": ["pandemic", "virus"] },
+
+  { "id": 22, "title": "George Floyd Protests", "year": 2020, "category": "Politics", "location": "United States", "summary": "Nationwide protests against police brutality and systemic racism.", "tags": ["protest", "racism"] },
+
+  { "id": 23, "title": "US Capitol Attack", "year": 2021, "category": "Politics", "location": "United States", "summary": "Attack on the US Capitol challenging democratic norms and election legitimacy.", "tags": ["democracy", "protest"] },
+
+  { "id": 24, "title": "Taliban Return to Power", "year": 2021, "category": "Geopolitics", "location": "Afghanistan", "summary": "Taliban regain control following US withdrawal.", "tags": ["war", "US"] },
+
+  { "id": 25, "title": "Russia Invades Ukraine", "year": 2022, "category": "Geopolitics", "location": "Ukraine", "summary": "Full-scale invasion triggering Europe’s largest war since WWII.", "tags": ["war", "Russia"] },
+
+  { "id": 26, "title": "Global Inflation Crisis", "year": 2022, "category": "Economy", "location": "Global", "summary": "Post-pandemic inflation spikes affecting living costs worldwide.", "tags": ["inflation", "economy"] },
+
+  { "id": 27, "title": "ChatGPT Released", "year": 2022, "category": "Technology", "location": "Global", "summary": "Public release of ChatGPT accelerates mainstream adoption of generative AI.", "tags": ["AI", "technology"] },
+
+  { "id": 28, "title": "SVB Bank Collapse", "year": 2023, "category": "Economy", "location": "United States", "summary": "Major US bank collapse reignites fears of financial instability.", "tags": ["banks", "economy"] },
+
+  { "id": 29, "title": "Israel–Gaza War Escalation", "year": 2023, "category": "Geopolitics", "location": "Middle East", "summary": "Renewed large-scale conflict intensifies humanitarian and geopolitical tensions.", "tags": ["war", "Middle East"] },
+
+  { "id": 30, "title": "AI Regulation Push", "year": 2024, "category": "Technology", "location": "Global", "summary": "Governments move to regulate artificial intelligence amid rapid adoption.", "tags": ["AI", "policy"] }
+]

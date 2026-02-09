@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Big Events Since 2001</title>
+  <style>
+    body { font-family: system-ui; max-width: 700px; margin: 40px auto; }
+    .row { display:flex; gap:12px; align-items:center; margin: 14px 0 10px; }
+    input[type="range"] { width: 100%; }
+    .event { margin: 16px 0; border-bottom: 1px solid #ddd; padding-bottom: 10px; }
+    .meta { color: #666; font-size: 14px; }
+  </style>
+</head>
+<body>
+
+<h1>Big Events Since 2001</h1>
+
+<div class="row">
+  <strong id="yearLabel">Year: —</strong>
+</div>
+<input id="yearSlider" type="range" min="2001" max="2024" step="1" value="2001">
+
+<div id="results"></div>
+
+<script src="script.js"></script>
+</body>
+</html>
